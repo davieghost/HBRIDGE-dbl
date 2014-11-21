@@ -1,4 +1,4 @@
-//Hbridge Motor Control
+//Hbridge Single Motor Control
 const int EN=9; //Half Bridge 1 Enable
 const int MC1=3; //Motor Control 1
 const int MC2=2; //Motor Control 2

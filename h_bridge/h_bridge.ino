@@ -1,4 +1,4 @@
-//Hbridge Motor Control
+//Hbridge Dual Motor Control
 const int EN1=9; //Half Bridge 1 Enable
 const int EN2=10; //Half Bridge 1 Enable
 
