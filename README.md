@@ -1,4 +1,4 @@
-Hbridge-dualmotor
+hbridge-motorx2
 =================
 
 Control two motors with Arduino, and breadboard circuit 
